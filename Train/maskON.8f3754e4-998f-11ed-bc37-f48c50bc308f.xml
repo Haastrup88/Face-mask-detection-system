@@ -1,0 +1,26 @@
+<annotation>
+	<folder>maskON</folder>
+	<filename>maskON.8f3754e4-998f-11ed-bc37-f48c50bc308f.jpg</filename>
+	<path>C:\Users\hp\Documents\Tensorflow\TFODCourse\Tensorflow\workspace\images\collectedimages\maskON\maskON.8f3754e4-998f-11ed-bc37-f48c50bc308f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MaskOn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>43</ymin>
+			<xmax>480</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>
